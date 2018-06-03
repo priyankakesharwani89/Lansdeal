@@ -1,4 +1,4 @@
-# Lansdeal (https://www.creative-tim.com/product/material-dashboard-angular2)[![version][version-badge]][CHANGELOG]
+# Lansdeal https://lansdeal-d860e.firebaseapp.com/
  
 ## Terminal Commands
 
